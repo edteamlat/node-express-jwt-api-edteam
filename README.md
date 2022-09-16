@@ -2,7 +2,7 @@
 
 ## Instalación
 
-### git clone https://github.com/kevinguzman420/node-express-jwt-api.git
+### git clone https://github.com/kevinguzman420/node-express-jwt-api-edteam.git
 ### cd node-express-api
 ### npm install
 ### npm run dev
